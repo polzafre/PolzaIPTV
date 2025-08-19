@@ -313,6 +313,80 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="РАЗВЛЕЧЕНИЕ",Усадьба
 http://158.160.149.81:8080/145/index.m3u8
 
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="РАЗВЛЕЧЕНИЕ",Animal Planet HD
+http://176.96.241.40/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="РАЗВЛЕЧЕНИЕ",Discovery HD
+http://158.160.149.81:8080/3465/index.m3u8
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="РАЗВЛЕЧЕНИЕ",Galaxy
+http://85.117.61.97:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://iptvx.one/picons/hgtv.png" group-title="РАЗВЛЕЧЕНИЕ",HGTV HD
+
+#EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="РАЗВЛЕЧЕНИЕ",History
+
+#EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="РАЗВЛЕЧЕНИЕ",ID
+http://178.217.72.66:8080/ID_Xtra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="РАЗВЛЕЧЕНИЕ",Nano HD
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="РАЗВЛЕЧЕНИЕ",National Geographic
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="РАЗВЛЕЧЕНИЕ",Nat Geo Wild HD
+
+#EXTINF:-1 tvg-id="rtg-tv" tvg-logo="https://iptvx.one/picons/rtg-tv.png" group-title="РАЗВЛЕЧЕНИЕ",RTG
+http://178.124.152.238:8088/rtg
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="РАЗВЛЕЧЕНИЕ",RTG HD
+
+#EXTINF:-1 tvg-id="sovsek" tvg-logo="https://iptvx.one/picons/sovsek.png" group-title="РАЗВЛЕЧЕНИЕ",Top Secret
+http://178.124.152.238:8088/sovsec
+#EXTINF:-1 tvg-id="travel-adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group-title="РАЗВЛЕЧЕНИЕ",Travel+Adventure
+
+#EXTINF:-1 tvg-id="travel-xp-hd" tvg-logo="https://iptvx.one/picons/travel-xp-hd.png" group-title="РАЗВЛЕЧЕНИЕ",Travel XP HD
+
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png" group-title="РАЗВЛЕЧЕНИЕ",TERRA HD
+http://45.11.139.43:8555/terra/index.m3u8
+#EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="РАЗВЛЕЧЕНИЕ",UNIVER HD
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="РАЗВЛЕЧЕНИЕ",Viju HISTORY
+
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="РАЗВЛЕЧЕНИЕ",Viju NATURE
+
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="https://iptvx.one/picons/viasat-nature-history-hd.png" group-title="РАЗВЛЕЧЕНИЕ",Viju+ planet HD
+
+#EXTINF:-1 tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png" group-title="РАЗВЛЕЧЕНИЕ",ZOOПАРК
+http://178.217.72.66:8080/Zoopark/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="РАЗВЛЕЧЕНИЕ",Арсенал HD
+http://158.160.149.81:8080/5567/index.m3u8
+#EXTINF:-1 tvg-id="belarus3" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="РАЗВЛЕЧЕНИЕ",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="РАЗВЛЕЧЕНИЕ",В мире животных HD
+
+#EXTINF:-1 tvg-id="ege-tv" tvg-logo="https://iptvx.one/picons/ege-tv.png" group-title="РАЗВЛЕЧЕНИЕ",ЕГЭ ТВ
+
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="РАЗВЛЕЧЕНИЕ",Живая Планета
+http://158.160.149.81:8080/1491/index.m3u8
+#EXTINF:-1 tvg-id="zootv" tvg-logo="https://iptvx.one/picons/zootv.png" group-title="РАЗВЛЕЧЕНИЕ",Зоо ТВ
+http://31.210.208.171:8080/zoo_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="РАЗВЛЕЧЕНИЕ",История
+http://178.217.72.66:8080/Istoriya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="РАЗВЛЕЧЕНИЕ",Наука
+http://178.124.152.238:8088/nauka
+#EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-logo="https://iptvx.one/picons/moskovsky-obrazovatelny.png" group-title="РАЗВЛЕЧЕНИЕ",Мособр TV HD
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="РАЗВЛЕЧЕНИЕ",Моя Планета
+http://31.210.208.171:8080/moya_planeta/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="morskoy" tvg-logo="https://iptvx.one/picons/morskoy.png" group-title="РАЗВЛЕЧЕНИЕ",Моя стихия
+
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="РАЗВЛЕЧЕНИЕ",Первый Космический HD
+
+#EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="РАЗВЛЕЧЕНИЕ",Поехали!
+http://178.217.72.66:8080/Poehali/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="РАЗВЛЕЧЕНИЕ",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://iptvx.one/picons/psixologia-21.png" group-title="РАЗВЛЕЧЕНИЕ",Психология
+
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="РАЗВЛЕЧЕНИЕ",Россия К HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="РАЗВЛЕЧЕНИЕ",Техно 24
+
 --------------
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="СПОРТ",Eurosport 1 HD
