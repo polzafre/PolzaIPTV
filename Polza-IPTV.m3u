@@ -761,6 +761,21 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 --------------
 
+#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", REN TV international
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", Okko Sport HD
+http://ronaldo.tvfor.pro/8nGrEN8v52/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", OKKO Герои HD
+http://as01.links-tv-channels.org/7016/index.m3u8?token=wUP8R9TcEhqktU
+#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", OKKO ПРАЙМ СПОРТ
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", OKKO TV HD
+http://as01.links-tv-channels.org/7015/index.m3u8?token=wUP8R9TcEhqktU
+
+
+
+
+
 
 
 
